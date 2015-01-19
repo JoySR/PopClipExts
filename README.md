@@ -1,5 +1,5 @@
 ##PopClip Extensions##
----
+
 ###cocoNotes###
 __Based on offcial extension "Notes.popclipext"__
 
