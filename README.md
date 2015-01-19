@@ -1,7 +1,6 @@
-# PopClipExts
-PopClip Extensions
+##PopClip Extensions##
 ---
-##cocoNotes##
+###cocoNotes###
 __Based on offcial extension "Notes.popclipext"__
 
 Used for copying text from Safari or Google Chrome.
