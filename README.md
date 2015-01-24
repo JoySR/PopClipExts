@@ -1,12 +1,16 @@
 ##PopClip Extensions##
 
 ###cocoNotes###
-__Based on offcial extension [Notes.popclipextz](https://github.com/pilotmoon/PopClip-Extensions/tree/master/extensions)__
-
-Used for copying text from Safari or Google Chrome.
-
-Copy title of the webpage as name of the new note & insert formatted clickable title of the page before formatted text content.
 
 ![Result](http://drive.joysr.com/images/cocoNoteEx.png "Result")
 
-_Inspired by Opera notes(with Presto)_
+####Changelog####
+v1.1
+* Works also in other Apps with the same effect as the official extension
+
+v1.0
+* New PopClip Extension based on __offcial extension [Notes.popclipextz](https://github.com/pilotmoon/PopClip-Extensions/tree/master/extensions)__
+* Works in Safari and Google Chrome
+* Copying the title of the webpage as the name of new note & insert formatted clickable title of the page before formatted text content
+
+_Inspired by Opera notes( -12.16)_

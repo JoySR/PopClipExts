@@ -16,7 +16,7 @@
 		</dict>
 	</array>
 	<key>Extension Description</key>
-	<string>Make a new note with URL and Title in the Notes app. (The note is added in the first folder in the first account).</string>
+	<string>Make a new note with URL and Title(if in Safari or Google Chrome) in the Notes app. (The note is added in the first folder in the first account).</string>
 	<key>Extension Identifier</key>
 	<string>coco.popclip.extension.notes</string>
 	<key>Extension Name</key>
@@ -24,6 +24,6 @@
 	<key>Required OS Version</key>
 	<string>10.8</string>
 	<key>Version</key>
-	<integer>1</integer>
+	<real>1.1</real>
 </dict>
 </plist>
