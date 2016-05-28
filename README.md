@@ -2,8 +2,6 @@
 
 ###cocoNotes###
 
-![Result](http://drive.joysr.com/images/cocoNoteEx.png "Result")
-
 ####Changelog####
 v1.1
 * Works also in other Apps with the same effect as the official extension
