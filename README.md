@@ -1,8 +1,8 @@
-##PopClip Extensions##
+## PopClip Extensions
 
-###cocoNotes###
+### cocoNotes
 
-####Changelog####
+#### Changelog
 v1.1
 * Works also in other Apps with the same effect as the official extension
 
